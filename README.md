@@ -4,8 +4,6 @@ A media streaming web app with media upload and stream features - developed usin
 
 ![MERN Mediastream](https://s3.amazonaws.com/mernbook/git+/mediastream.png "MERN Mediastream")
 
-### [Live Demo](http://mediastream2.mernbook.com/ "MERN Mediastream")
-
 #### What you need to run this code
 1. Node (13.12.0)
 2. NPM (6.14.4) or Yarn (1.22.4)
@@ -23,8 +21,6 @@ Highlights :
 
 - Developed media streaming applications using MongoDB GridFS
 - Improved SEO for this MERN apps by implementing server-side rendering with data
-- Implemented user authentication and authorization using JSON web tokens
-- Set up and use React 360 to develop user interfaces with VR capabilities.
-- Maked the application more reliable and scalable with industry best practices.
+- Implemented user authentication and authorization using JSON web token.
 
 ---
